@@ -1,0 +1,9 @@
+This is sample file for github learning
+
+1. Create Github account
+
+2. Create new repository
+
+3. Upload the files (image, audio, video)
+
+4. Commit the files
