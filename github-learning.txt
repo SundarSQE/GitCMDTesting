@@ -7,3 +7,5 @@ This is sample file for github learning
 3. Upload the files (image, audio, video)
 
 4. Commit the files
+
+5. New line added
