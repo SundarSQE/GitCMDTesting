@@ -9,3 +9,5 @@ This is sample file for github learning
 4. Commit the files
 
 5. New line added
+
+6. Adding the new document features (txt, word, excel)
